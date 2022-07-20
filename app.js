@@ -1,5 +1,5 @@
 //Enter your code here..
-//Enter your code here..
+
 const btn = document.querySelector('#btnGet');
 const msg = document.querySelector('#message');
 btn.onclick = function (){
